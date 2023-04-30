@@ -1,4 +1,1 @@
-this is a old line
-it's new line
-this is a old line
-it's new line
+this is a new line
